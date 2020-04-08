@@ -7,13 +7,19 @@
 
 :one:简单配置：学号和密码；打卡时间；
 
-![1586320348446](/tmp/1586320348446.png)
+![image-20200408130750090](https://picbed-1301760901.cos.ap-guangzhou.myqcloud.com/image-20200408130750090.png)
 
-![1586320160786](/tmp/1586320160786.png)
+![image-20200408130808031](https://picbed-1301760901.cos.ap-guangzhou.myqcloud.com/image-20200408130808031.png)
 
 :two:然后在挂在后台就好了！到点会自动打卡！
 
-![1586320238009](/tmp/1586320238009.png)
+```python
+python ./fuck_iamok.py
+```
+
+![image-20200408131546001](https://picbed-1301760901.cos.ap-guangzhou.myqcloud.com/image-20200408131546001.png)
+
+
 
 ## 工具
 
